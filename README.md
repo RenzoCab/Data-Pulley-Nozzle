@@ -1,6 +1,6 @@
 # Data-Pulley-Nozzle
 
-## This work was done in collaboration with Bander AlBraheem.
+## This work was done in collaboration with Bandar AlBraheem.
 
 ![](./pulleys.gif)
 
